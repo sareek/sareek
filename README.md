@@ -1,4 +1,4 @@
-## Hi there👋, I am Sarik. Here is my portfolio: [visit](https://sareek.github.io/sd_portfolio/). 
+## Hi there👋, I am Sarik. Visit my portfolio over [here](https://sareek.github.io/sd_portfolio/). 
 
 
 <!--
